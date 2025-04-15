@@ -1,5 +1,3 @@
-Here’s a more concise version of the README with fewer steps while maintaining the essential details for deploying the Node.js app on Kubernetes.
-
 ---
 
 # Kubernetes Deployment of Node.js Application
